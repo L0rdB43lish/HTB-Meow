@@ -11,7 +11,7 @@ To answer some of the questions:
 4. What tool do we use to test our connection to the target with an ICMP echo request?  
 	`ping`
 
-To verify connectivity with the target machine, I used the `ping` command, which sends ICMP echo requests. This is a simple and effective way to confirm that the target os reachable and responsive on the network.  
+To verify connectivity with the target machine, I used the `ping` command, which sends ICMP echo requests. This is a simple and effective way to confirm that the target is reachable and responsive on the network.  
 ![image](https://github.com/L0rdB43lish/HTB-Meow/blob/33d909568646a528916c984d9d80835b98e6c371/Files/Captura%20de%20tela%202025-05-09%20174108.png)  
 
  5. What is the name of the most common tool for finding open ports on a target?  
