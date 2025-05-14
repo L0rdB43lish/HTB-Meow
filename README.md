@@ -3,7 +3,7 @@ Resolution of HackTheBox's machine "Meow".
 
 Spawn machine IP: 10.129.112.23
 
-To answer some of the questions:  
+Questions:  
 
 3. What service do we use to form our VPN connection into HTB labs?  
 	`openvpn`
